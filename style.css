@@ -20,7 +20,7 @@ header {
   width: 70%;
   cursor: pointer;
 }
-.active {
+.nav-pills .nav-link.active {
   background-color: #ff6309;
 }
 .navbar {
